@@ -2,6 +2,7 @@
 <!-- -->
 
 <h2>Simple Python + Pytest + Selenium + Allure automation test project</h2>
+<h2>Test</h2>
 
 <div>
 <ul>
